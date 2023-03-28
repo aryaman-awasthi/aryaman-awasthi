@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on a flutter.<br>👯 I’m looking to collaborate on any backend project.<br>🌱 I’m currently learning Golang.<br>🥅 2023 Goals: Contribute to Open Source projects.<br>👩‍💻 Interested in Machine learning and Blockchain.<br>📝 I love to convert ideas into reality.<br>⚡ Fun fact: I love connecting with different people 🙌
 
 
