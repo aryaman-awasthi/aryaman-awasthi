@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Aryaman, a 3rd-year B.Tech student at VIT. I specialize in app development and backend work using Django, Node.js, and SpringBoot. Eager to collaborate and contribute to meaningful projects. Let's code together! 💻🚀
+Hi, I'm Aryaman!
 
 
 # Tech Stack:
